@@ -1,3 +1,3 @@
-# JavaBrickBreaker
+# Java
 
-Java program for brickbreaker but will add new functionalities 
+Java programs 
